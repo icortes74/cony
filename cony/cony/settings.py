@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'cony.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cony',
+        'NAME': 'cony2',
         'USER': 'root',
         'PASSWORD':'mysql2014*',
         'HOST':'localhost',
